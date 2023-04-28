@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd83d2fc-6e64-4415-804b-72fffec81c20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../First Project/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HACKER-RANK/HACKER-RANK.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_Project/My_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seample_GUI/Seample_GUI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadSO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/MonitorBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Filosofi/Filosofo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Filosofi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Filosofi/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MonitorContatore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MonitorContatore/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MonitorContatore/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ottobre_6/ottobre_6.iml" afterDir="false" />
+    <list default="true" id="cd83d2fc-6e64-4415-804b-72fffec81c20" name="Changes" comment="Filosofi con stallo fatto">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Filosofi/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Filosofi/Monitor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +68,16 @@
       <option name="presentableId" value="Default" />
       <updated>1682511789319</updated>
       <workItem from="1682511791324" duration="3909000" />
-      <workItem from="1682677675644" duration="3572000" />
+      <workItem from="1682677675644" duration="4421000" />
     </task>
+    <task id="LOCAL-00001" summary="Filosofi con stallo fatto">
+      <created>1682681301004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682681301004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Filosofi con stallo fatto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Filosofi con stallo fatto" />
   </component>
 </project>

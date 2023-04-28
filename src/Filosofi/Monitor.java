@@ -1,5 +1,8 @@
 package Filosofi;
-
+/*
+Questa soluzione mi fa stallare, per garantire l'atomicità devo raccogliere tutte e due o nessuna bacchetta.
+Tenendo presente che l'implementazione potrebbe causare starvation.
+ */
 public class Monitor {
     Boolean bacchetta[];
     final private int N_THREAD;
