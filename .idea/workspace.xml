@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd83d2fc-6e64-4415-804b-72fffec81c20" name="Changes" comment="Commenti sui monitor">
-      <change afterPath="$PROJECT_DIR$/src/CodaPrioritaria/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodaPrioritaria/CodeMonitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd83d2fc-6e64-4415-804b-72fffec81c20" name="Changes" comment="Funzinona" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +80,7 @@
       <updated>1682511789319</updated>
       <workItem from="1682511791324" duration="3909000" />
       <workItem from="1682677675644" duration="4517000" />
-      <workItem from="1683115469624" duration="3094000" />
+      <workItem from="1683115469624" duration="3412000" />
     </task>
     <task id="LOCAL-00001" summary="Filosofi con stallo fatto">
       <created>1682681301004</created>
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682682153828</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Funzinona">
+      <created>1683118880183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683118880183</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Filosofi con stallo fatto" />
     <MESSAGE value="Commenti sui monitor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commenti sui monitor" />
+    <MESSAGE value="Funzinona" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funzinona" />
   </component>
 </project>
